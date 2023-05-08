@@ -1,6 +1,6 @@
-Titanic - Machine Learning from Disaster
+**Titanic - Machine Learning from Disaster**
 
-The machine learning project is created using the classical Titanic dataset for the Titanic Kaggle prediction contest. The project undergo several stages, including data cleaning, preprocessing, and feature engineering using libraries such as Pandas and Numpy.
+The machine learning project is created using the classical Titanic dataset for the **Titanic Kaggle prediction contest**. The project undergo several stages, including data cleaning, preprocessing, and feature engineering using libraries such as Pandas and Numpy.
 
 Different machine learning algorithms is employed, such as Logistic Regression, Decision Trees, and Random Forest, to create predictive models that accurately classified whether a passenger survived the Titanic disaster or not.
 
